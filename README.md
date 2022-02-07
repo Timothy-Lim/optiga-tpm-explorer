@@ -13,12 +13,12 @@ The main benefit from the tool is that you are able to explore OPTIGA™ TPM 2.0
 
 ## Features
 
--   Allow for reading TPM 2.0 commands executed and the corresponded responses from the display screen or the terminal in the background.
--   Display all properties defined within a TPM 2.0
--   Initialize a TPM 2.0
+-   Allow for reading OPTIGA™ TPM 2.0 commands executed and the corresponded responses from the display screen or the terminal in the background
+-   Display all properties defined within a OPTIGA™ TPM 2.0
+-   Initialize a OPTIGA™ TPM 2.0
 -   Reset back to default settings
 -   Manage the authorization values for the owner, endorsement and lockout
--   Manage TPM 2.0 NV memory for creation, deletion, reading, writing, listing and etc
+-   Manage OPTIGA™ TPM 2.0 NV memory for creation, deletion, reading, writing, listing and etc
 -   Handle PCR Indexes by listing all the different registers in SHA-1 or SHA-256
 -   Handle PCR Indexes by extending a value into the registers in SHA-1 or SHA-256 using PCR Extend/Event
 -   Manage specific handle and context associated with transient and persistent objects
@@ -68,7 +68,7 @@ Learn more about the tool, how it works, and the functionalities of the OPTIGA�
 
 ## Resources
 
-You will find relevant resouces (tools, Open Source Host Code and Application notes) which can can help you to study and learn TPM2.0 on [Infineon OPTIGA™ TPM2.0 Github repo](https://github.com/Infineon/optiga-tpm)
+You will find relevant resouces (tools, Open Source Host Code and Application notes) which can can help you to study and learn OPTIGA™ TPM2.0 on [Infineon OPTIGA™ TPM2.0 Github Repo.](https://github.com/Infineon/optiga-tpm)
 
 ## License
 
