@@ -68,7 +68,7 @@ Learn more about the tool, how it works, and the functionalities of the OPTIGA�
 
 ## Resources
 
-You will find relevant resouces (tools, Open Source Host Code and Application notes) which can can help you to study and learn OPTIGA™ TPM2.0 on [Infineon OPTIGA™ TPM2.0 Github Repo.](https://github.com/Infineon/optiga-tpm)
+You will find relevant resouces (tools, Open Source Host Code and Application notes) which can help you to study and learn OPTIGA™ TPM2.0 on [Infineon OPTIGA™ TPM2.0 Github Repo.](https://github.com/Infineon/optiga-tpm)
 
 ## License
 
