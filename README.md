@@ -1,5 +1,5 @@
 # OPTIGA™ TPM 2.0 Explorer
-The OPTIGA™ TPM 2.0 Explorer is a GUI-based tool for users to familiarize themselves with TPM 2.0 quickly and easily using Infineon OPTIGA™ TPM 2.0 solution for Raspberry Pi®. In addition, the OPTIGA™ TPM 2.0 Explorer demonstrates how the OPTIGA™ TPM 2.0 can be used to increase security and trust for data sharing, platform and cloud. 
+The OPTIGA™ TPM 2.0 Explorer is a GUI-based tool for users to familiarize themselves with TPM 2.0 quickly and easily using Infineon OPTIGA™ TPM 2.0 solution for Raspberry Pi. In addition, the OPTIGA™ TPM 2.0 Explorer demonstrates how the OPTIGA™ TPM 2.0 can be used to increase security and trust for data sharing, platform and cloud. 
 
 Using this tool, you can start experiencing the benefits that the [OPTIGA™ TPM 2.0](https://www.infineon.com/cms/en/product/security-smart-card-solutions/optiga-embedded-security-solutions/optiga-tpm/?redirId=39899/) will bring to smart home devices and network equipment.
 
@@ -38,7 +38,7 @@ The main benefit from the tool is that you are able to explore OPTIGA™ TPM 2.0
 
 ## Hardware requirements
 
--   Raspberry Pi® 3 Model B+
+-   Raspberry Pi 3 Model B+
 -   Micro SD card (≥8GB)
 -   OPTIGA™ TPM 2.0 evaluation board
     -   [Iridium SLB 9670 TPM2.0](https://www.infineon.com/cms/en/product/evaluation-boards/iridium9670-tpm2.0-linux/)
@@ -49,7 +49,7 @@ The main benefit from the tool is that you are able to explore OPTIGA™ TPM 2.0
 
 ## Setup Environment
 
-This tool was tested on a Raspberry Pi® 3 Model B+ with Raspbian Linux in Release Version 9.4 (Stretch) and kernel version 4.19 with an Infineon OPTIGA™ TPM SLB 9670 TPM2.0 evaluation board attached to the Raspberry Pi® board.
+This tool was tested on a Raspberry Pi 3 Model B+ with Raspbian Linux in Release Version 9.4 (Stretch) and kernel version 4.19 with an Infineon OPTIGA™ TPM SLB 9670 TPM2.0 evaluation board attached to the Raspberry Pi board.
 
 The following software required for the OPTIGA™ TPM 2.0 Explorer:
 - python-wxtools
