@@ -1,7 +1,7 @@
 # **OPTIGA™ TPM 2.0 Explorer User Guide**
 
 
-This page helps you explore the tool to accelerate your learning about TPM2.0. 
+This page helps you explore the tool to accelerate your learning about OPTIGA™ TPM2.0. 
 
 1. [Overview](#overview)
     - [1.1 Features](#features)
@@ -84,12 +84,12 @@ Using this tool, you can start experiencing the benefits that the [OPTIGA™ TPM
 
 ## Features
 
--   Allow for reading TPM2.0 commands executed and the corresponded responses from the display screen or the terminal in the background.
--   Display all properties defined within a TPM 2.0
--   Initialize a TPM 2.0
+-   Allow for reading OPTIGA™ TPM2.0 commands executed and the corresponded responses from the display screen or the terminal in the background.
+-   Display all properties defined within a OPTIGA™ TPM 2.0
+-   Initialize a OPTIGA™ TPM 2.0
 -   Reset back to default settings
 -   Manage the authorization values for the owner, endorsement and lockout
--   Manage TPM 2.0 NV memory for creation, deletion, reading, writing, listing and etc
+-   Manage OPTIGA™ TPM 2.0 NV memory for creation, deletion, reading, writing, listing and etc
 -   Handle PCR Indexes by listing all the different registers in SHA-1 or SHA-256
 -   Handle PCR Indexes by extending a value into the registers in SHA-1 or SHA-256 using PCR Extend/Event
 -   Manage specific handle and context associated with transient and persistent objects
@@ -110,7 +110,7 @@ Using this tool, you can start experiencing the benefits that the [OPTIGA™ TPM
 
 For more information on how to setup the environment for the OPTIGA™ TPM 2.0 Explorer Application, you may refer to the [OPTIGA™ TPM 2.0 Explorer Setup Guide](./Setup%20Guide.md)
 
-This tool was tested on a Raspberry Pi ® (RPi) 3 Model B+ with Raspbian Linux in Release Version 9.4 (Stretch) and kernel version 4.19 with an Infineon OPTIGA™ TPM SLB 9670 TPM2.0 attached to the Raspberry Pi® board (Figure 1 and Figure 2).
+This tool was tested on a Raspberry Pi(RPi) 3 Model B+ with Raspbian Linux in Release Version 9.4 (Stretch) and kernel version 4.19 with an Infineon OPTIGA™ TPM SLB 9670 TPM2.0 attached to the Raspberry Pi board (Figure 1 and Figure 2).
 
 ![](/images/Overview/RaspbianStretch.png) 
 
@@ -118,7 +118,7 @@ Figure 1: Raspbian Linux 9.4 (Stretch) is used with kernel version 4.14
 
 ![](/images/Overview/TPMRPI3.png) 
 
-Figure 2: Infineon Iridium SLB 9670 TPM2.0 SPI Board on a Raspberry Pi® 3
+Figure 2: Infineon Iridium SLB 9670 TPM2.0 SPI Board on a Raspberry Pi 3
 
 
 
@@ -126,9 +126,9 @@ Figure 2: Infineon Iridium SLB 9670 TPM2.0 SPI Board on a Raspberry Pi® 3
 
 | Hardware             | Version   and Firmware/OS                                    | Comment                                                      |
 | -------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Host  PC             | • x86  architecture and USB 2.0 (or higher)  •  Capable of running Linux, for example Ubuntu® 18.04  •  Arbitrary as long as VNC viewer is present | This  platform is used for patching the Kernel, maintaining and interacting with  the Raspberry Pi® in a more convenient and faster way compared to doing all  actions directly on the Raspberry Pi®. |
-| OPTIGA™ TPM 2.0 evaluation board      | • [Iridium SLB 9670 TPM2.0](https://www.infineon.com/cms/en/product/evaluation-boards/iridium9670-tpm2.0-linux/)| This  board contains the Infineon OPTIGA™ TPM SLB 9670 TPM2.0 mounted on an  easy-to-use hardware board, which can be attached to the Raspberry Pi®. |
-| Raspberry  Pi® Board | •  Model 3 B+, Raspbian 9.4   •  Micro SD Card with at least 8 GB   •  Micro-B USB cable for power supply | A SD  card with the Raspbian  Linux in Release Version 9.4 (Stretch) and kernel version 4.19 on it is required, which can be downloaded at [[1]](#references). This SD card will be  plugged in the developer PC |
+| Host  PC             | • x86  architecture and USB 2.0 (or higher)  •  Capable of running Linux, for example Ubuntu® 18.04  •  Arbitrary as long as VNC viewer is present | This  platform is used for patching the Kernel, maintaining and interacting with  the Raspberry Pi in a more convenient and faster way compared to doing all  actions directly on the Raspberry Pi. |
+| OPTIGA™ TPM 2.0 evaluation board      | • [Iridium SLB 9670 TPM2.0](https://www.infineon.com/cms/en/product/evaluation-boards/iridium9670-tpm2.0-linux/)| This  board contains the Infineon OPTIGA™ TPM SLB 9670 TPM2.0 mounted on an  easy-to-use hardware board, which can be attached to the Raspberry Pi. |
+| Raspberry  Pi Board | •  Model 3 B+, Raspbian 9.4   •  Micro SD Card with at least 8 GB   •  Micro-B USB cable for power supply | A SD  card with the Raspbian  Linux in Release Version 9.4 (Stretch) and kernel version 4.19 on it is required, which can be downloaded at [[1]](#references). This SD card will be  plugged in the developer PC |
 
 
 
