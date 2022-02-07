@@ -1,17 +1,17 @@
 # **OPTIGA™ TPM 2.0 Explorer Setup Guide**
 
-This page provides instructions on how to install and configure the Raspberry Pi® to enable the [OPTIGA™ TPM 2.0](https://www.infineon.com/cms/en/product/security-smart-card-solutions/optiga-embedded-security-solutions/optiga-tpm/?redirId=39899/) in order to use the OPTIGA™ TPM 2.0 Explorer.
+This page provides instructions on how to install and configure the Raspberry Pi to enable the [OPTIGA™ TPM 2.0](https://www.infineon.com/cms/en/product/security-smart-card-solutions/optiga-embedded-security-solutions/optiga-tpm/?redirId=39899/) in order to use the OPTIGA™ TPM 2.0 Explorer.
 
 1.  [Prerequisites](#prerequisites)
-2.  [Enable OPTIGA™ TPM 2.0 support on Raspberry Pi®](#enabletpm)
+2.  [Enable OPTIGA™ TPM 2.0 support on Raspberry Pi](#enabletpm)
 3.  [Set up VNC Connection](#vnc-connection-setup-optional)
 4.  [Install OPTIGA™ TPM 2.0 Explorer](#install-tpm_explorer)
 5.  [References](#references)
 
 ## Prerequisites 
 
--   Raspberry Pi® 3 Model B+
--   Micro SD card (≥8GB) flashed with Raspberry Pi® Raspbian Linux in Release Version 9.4 (Stretch) OS. Download the official image from [[1]](#references)
+-   Raspberry Pi 3 Model B+
+-   Micro SD card (≥8GB) flashed with Raspberry Pi Raspbian Linux in Release Version 9.4 (Stretch) OS. Download the official image from [[1]](#references)
 -   OPTIGA™ TPM 2.0 evaluation board
     -   [Iridium SLB 9670 TPM2.0](https://www.infineon.com/cms/en/product/evaluation-boards/iridium9670-tpm2.0-linux/)
 
@@ -24,9 +24,9 @@ This page provides instructions on how to install and configure the Raspberry Pi
 
 | Hardware             | Version   and Firmware/OS                                    | Comment                                                      |
 | -------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Host  PC             | • x86  architecture and USB 2.0 (or higher)  •  Capable of running Linux, for example Ubuntu® 18.04  •  Arbitrary as long as VNC viewer is present | This  platform is used for patching the Kernel, maintaining and interacting with  the Raspberry Pi® in a more convenient and faster way compared to doing all  actions directly on the Raspberry Pi®. |
-|  OPTIGA™ TPM 2.0 evaluation board       |  • [Iridium SLB 9670 TPM2.0](https://www.infineon.com/cms/en/product/evaluation-boards/iridium9670-tpm2.0-linux/) | This  board contains the Infineon OPTIGA™ TPM SLB 9670 TPM2.0 mounted on an  easy-to-use hardware board, which can be attached to the Raspberry Pi®. |
-| Raspberry  Pi® Board | •  Model 3 B+, Raspbian 9.4   •  Micro SD Card with at least 8 GB   •  Micro-B USB cable for power supply | A SD  card with the Raspbian  Linux in Release Version 9.4 (Stretch) and kernel version 4.19 on it is required, which can be downloaded at [[1]](#references). This SD card will be  plugged in the developer PC |
+| Host  PC             | • x86  architecture and USB 2.0 (or higher)  •  Capable of running Linux, for example Ubuntu® 18.04  •  Arbitrary as long as VNC viewer is present | This  platform is used for patching the Kernel, maintaining and interacting with  the Raspberry Pi in a more convenient and faster way compared to doing all  actions directly on the Raspberry Pi. |
+|  OPTIGA™ TPM 2.0 evaluation board       |  • [Iridium SLB 9670 TPM2.0](https://www.infineon.com/cms/en/product/evaluation-boards/iridium9670-tpm2.0-linux/) | This  board contains the Infineon OPTIGA™ TPM SLB 9670 TPM2.0 mounted on an  easy-to-use hardware board, which can be attached to the Raspberry Pi. |
+| Raspberry  Pi Board | •  Model 3 B+, Raspbian 9.4   •  Micro SD Card with at least 8 GB   •  Micro-B USB cable for power supply | A SD  card with the Raspbian  Linux in Release Version 9.4 (Stretch) and kernel version 4.19 on it is required, which can be downloaded at [[1]](#references). This SD card will be  plugged in the developer PC |
 
 
 
@@ -41,9 +41,9 @@ This page provides instructions on how to install and configure the Raspberry Pi
 
 
 
-## <a name="enabletpm"></a>Enable OPTIGA™ TPM 2.0 support on Raspberry Pi®
+## <a name="enabletpm"></a>Enable OPTIGA™ TPM 2.0 support on Raspberry Pi
 
-Insert the flashed SD card and boot the Raspberry Pi®.
+Insert the flashed SD card and boot the Raspberry Pi.
 
 Open the configuration file in an editor:  
 
