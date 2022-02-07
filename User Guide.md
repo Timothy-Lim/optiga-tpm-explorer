@@ -78,7 +78,7 @@ This page helps you explore the tool to accelerate your learning about OPTIGA™
 
 # Overview
 
-The OPTIGA™ TPM 2.0 Explorer is a GUI-based tool for beginners to evaluate Infineon OPTIGA™ TPM 2.0 with Infineon OPTIGA™ TPM 2.0 evaluation board connected to the Raspberry Pi® running TPM 2.0 Software Stack (TSS) on Raspbian Linux.  
+The OPTIGA™ TPM 2.0 Explorer is a GUI-based tool for beginners to evaluate Infineon OPTIGA™ TPM 2.0 with Infineon OPTIGA™ TPM 2.0 evaluation board connected to the Raspberry Pi running TPM 2.0 Software Stack (TSS) on Raspbian Linux.  
 
 Using this tool, you can start experiencing the benefits that the [OPTIGA™ TPM 2.0](https://www.infineon.com/cms/en/product/security-smart-card-solutions/optiga-embedded-security-solutions/optiga-tpm/?redirId=39899/) will bring to smart home devices and network equipment.
 
