@@ -63,7 +63,7 @@ Save the file and exit the editor.
 
 ## <a name="vnc-connection-setup-optional"></a>Set up VNC Connection
 
-This optional step will guide you on how to set up a VNC connection from your RPI to your computer. This step requires a flashed MicroSD with the TPM Explorer image in an RPI3 and VNC Viewer installed on your computer.
+This optional step will guide you on how to set up a VNC connection from your RPI to your computer. This step requires a flashed MicroSD with the OPTIGA™ TPM Explorer image in an RPI3 and VNC Viewer installed on your computer.
 
 Start-up the Raspberry Pi with HDMI cable to monitor and start the terminal.
 
