@@ -41,7 +41,7 @@ The main benefit from the tool is that you are able to explore OPTIGA™ TPM 2.0
 -   Raspberry Pi 3 Model B+
 -   Micro SD card (≥8GB)
 -   OPTIGA™ TPM 2.0 evaluation board
-    -   [Iridium SLB 9670 TPM2.0](https://www.infineon.com/cms/en/product/evaluation-boards/iridium9670-tpm2.0-linux/)
+    -   [Iridium SLB 9670 TPM 2.0](https://www.infineon.com/cms/en/product/evaluation-boards/iridium9670-tpm2.0-linux/)
     
 
 | ![](/images/Overview/TPMRPI3.png) |
@@ -68,7 +68,7 @@ Learn more about the tool, how it works, and the functionalities of the OPTIGA�
 
 ## Resources
 
-You will find relevant resouces (tools, Open Source Host Code and Application notes) which can help you to study and learn OPTIGA™ TPM2.0 on [Infineon OPTIGA™ TPM2.0 Github Repo.](https://github.com/Infineon/optiga-tpm)
+You will find relevant resouces (tools, Open Source Host Code and Application notes) on [Infineon OPTIGA™ TPM 2.0 Github Repo](https://github.com/Infineon/optiga-tpm), which can help you to study and learn OPTIGA™ TPM 2.0.
 
 ## License
 
