@@ -49,7 +49,7 @@ The main benefit from the tool is that you are able to explore OPTIGA™ TPM 2.0
 
 ## Setup Environment
 
-This tool was tested on a Raspberry Pi 3 Model B+ with Raspbian Linux in Release Version 9.4 (Stretch) and kernel version 4.19 with an Infineon OPTIGA™ TPM SLB 9670 TPM2.0 evaluation board attached to the Raspberry Pi board.
+This tool was tested on a Raspberry Pi 3 Model B+ with Raspbian Linux in Release Version 9.4 (Stretch) and kernel version 4.19 with an Infineon OPTIGA™ TPM SLB 9670 TPM 2.0 evaluation board attached to the Raspberry Pi board.
 
 The following software required for the OPTIGA™ TPM 2.0 Explorer:
 - python-wxtools
@@ -64,7 +64,7 @@ For more information on how to setup the environment for the tool, you can refer
 
 ## User Guide
 
-Learn more about the tool, how it works, and the functionalities of the OPTIGA™ TPM 2.0 by following graphical examples and simple step by step instructions - see the [OPTIGA™ TPM 2.0 Explorer User Guide](./User%20Guide.md) for details.
+Learn more about the tool, how it works and the functionalities of the OPTIGA™ TPM 2.0 by following graphical examples and simple step by step instructions - see the [OPTIGA™ TPM 2.0 Explorer User Guide](./User%20Guide.md) for details.
 
 ## Resources
 
